@@ -53,9 +53,13 @@ nav ul li a {
   padding: 5px;
 }
 
+
 section {
-  flex: 1;
   padding: 20px;
+  background-image: url("background-image.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
 }
 
 footer {
