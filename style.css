@@ -62,7 +62,7 @@ nav ul li a {
 section {
   flex:1;
   padding: 100px;
-  background-color:  rgba(0, 0, 0, 1);
+  background-color:  rgba(0, 0, 0, 0.5);
   background-size: 200;
   background-position: center;
   color: #fff;
